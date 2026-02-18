@@ -1,0 +1,25 @@
+path: C:/yolo11_pro/datasets
+
+train: train/images
+val: val/images
+test: test/images   # optional but recommended
+
+nc: 15
+
+names:
+  0: weed_type_0
+  1: weed_type_1
+  2: weed_type_2
+  3: weed_type_3
+  4: weed_type_4
+  5: weed_type_5
+  6: weed_type_6
+  7: weed_type_7
+  8: weed_type_8
+  9: weed_type_9
+  10: weed_type_10
+  11: weed_type_11
+  12: weed_type_12
+  13: weed_type_13
+  14: weed_type_14
+
